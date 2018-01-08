@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Blade Snippets",
+		"Boxy Theme",
+		"Capybara Snippets",
+		"Coffee Color Scheme",
+		"Color Highlighter",
+		"Dockerfile Syntax Highlighting",
+		"Elixir",
+		"Emmet",
+		"Emmet Css Snippets",
+		"hextoASCII",
+		"JavaScript Completions",
+		"Jest",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Liquid",
+		"Markdown Preview",
+		"OmniSharp",
+		"Package Control",
+		"Pretty JSON",
+		"Razor",
+		"React ES6 Snippets",
+		"ReactJS Snippets",
+		"RSpec",
+		"Sass",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"SSH Config",
+		"Theme - Cobalt2"
+	]
+}
